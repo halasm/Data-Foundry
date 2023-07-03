@@ -1,0 +1,15 @@
+Data Source,Platform,Office,PoC,Approving authority?,Sensitivity Spectrum,Access Request Process?,Access Request Form?,Approvals Required?,"How is data provided? (extract, Tableau, ?)","How often provided (one-time, ongoing)?",Notes
+IdM (Identity Management),,OIT,Kirk Rouser,"CIO, Registrar, VP-HR","Public, Restricted, Sensitive",Yes,No,Directory/public data requires a simple justification; restricted/sensitive data requires sign off from HR/Student data stewards,"Extracts, Grouper groups, Shibboleth attributes","one-time, ongoing",
+HR,SAP,ASM & HR,"Bill Marchese, Ned Neely",HR,"Public, Restricted, Sensitive",Yes,Yes,,,,
+Student Records,PeopleSoft,"OUR, SISS","Frank Blalark, Chris Derickson",OUR,"Public, Restricted, Sensitive",Yes,Yes,,,,
+Room Assignments,,StuAff,"Matt Starcke, Trent Ramsey",StuAff,"Public, Restricted, Sensitive",Yes,Yes,Identified data requires justification and approval.,"Extracts, Tableau","one-time, ongoing",
+Student groups,,StuAff,"Matt Starcke, Trent Ramsey",StuAff,"Public, Restricted, Sensitive",Yes,Yes,Identified data requires justification and approval.,"Extracts, Tableau","one-time, ongoing",I think this can be removed; DukeGroups data would cover this
+DukeGroups,,StuAff,"Matt Starcke, Trent Ramsey",StuAff,"Public, Restricted, Sensitive",Yes,Yes,Identified data requires justification and approval.,"Extracts, Tableau","one-time, ongoing",
+Sponsored Research,SPS,,,,,,,,,,
+Licensing and Ventures,Innovate,OTC,,OTC,,,,,,,"Licensing and Ventures database, managed by Office for Translation and Commercialization (previoulsy OLV)"
+Network (wifi),,OIT,Richard Biever,OIT,Restricted,Yes,No,Identified data requires justification and approval.,"Extracts, Tableau","one-time, ongoing",
+DukeCard (transactions),,OIT,Debbie Deyulia,OIT,"Restricted, Sensitive",Yes,Yes,Identified data requires justification and approval.,"Extracts, Tableau","one-time, ongoing",
+DukeCard (access),,OIT,Debbie Deyulia,OIT,"Restricted, Sensitive",Yes,Yes,Identified data requires justification and approval.,"Extracts, Tableau","one-time, ongoing",
+"Energy Consumption (cold water, hot water, steam, electricity)",Energy Cap,FMD,Casey Collins,FMD,Restricted (close to public),Yes (ask Casey),No,,,,With approval has been given to external groups
+Parking Permits,T2,PTS,,,,,,,T2,,
+Parking Events (entry/exit),T2,PTS,,,Sensitive,,,,T2,,
