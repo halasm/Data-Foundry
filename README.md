@@ -1,4 +1,7 @@
+Data Foundry is a web app that can grant permission based access to institutional data at Duke University such as HR data, Student Data, Housing Assignments ..etc. Functional for management, storage and processing of data. Can be thought of as a warehouse where data is securely stored and made accesible to users and systems. Developed by a team of 5 as a Code+ project.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
 
 ## Getting Started
 
