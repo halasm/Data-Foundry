@@ -1,6 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-
 ## Getting Started
 
 First, run the development server:
@@ -33,3 +32,8 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+The web app is still in development and will be constantly updated. Filled with placeholder images and lipsum. 
+<p align='center'>
+<img width="1044" alt="Screenshot 2023-07-03 at 3 04 31 PM" src="https://github.com/halasm/Data-Foundry/assets/122427981/babacfc8-dee2-4c9e-b143-bcc39386db74">
+</p>
